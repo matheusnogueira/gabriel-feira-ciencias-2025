@@ -1,0 +1,362 @@
+[
+	{
+		"id": 1,
+		"tema": "Saneamento Básico",
+		"pergunta": "Qual destas medidas ajuda a melhorar o saneamento básico?",
+		"alternativas": [
+			"Tratamento de esgoto",
+			"Uso de ventiladores",
+			"Pintura dos muros",
+			"Podas de árvores"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "O tratamento de esgoto evita a contaminação da água e da terra, protegendo a saúde da população.",
+		"explicacaoErro": {
+			"1": "Ventiladores não têm relação com saneamento.",
+			"2": "A pintura dos muros não interfere no saneamento.",
+			"3": "Podar árvores é importante, mas não está ligado ao saneamento básico."
+		}
+	},
+	{
+		"id": 2,
+		"tema": "Saneamento Básico",
+		"pergunta": "A falta de saneamento básico pode aumentar a incidência de qual doença?",
+		"alternativas": [
+			"Cólera",
+			"Insônia",
+			"Diabetes",
+			"Miopia"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "A cólera é causada por água contaminada, comum em locais sem saneamento básico.",
+		"explicacaoErro": {
+			"1": "Insônia não está relacionada à água ou esgoto.",
+			"2": "Diabetes não tem relação direta com saneamento.",
+			"3": "Miopia é um problema de visão e não de saneamento."
+		}
+	},
+	{
+		"id": 3,
+		"tema": "Saneamento Básico",
+		"pergunta": "O que representa saneamento básico?",
+		"alternativas": [
+			"Rede de água encanada e coleta de lixo",
+			"Venda de alimentos",
+			"Construção de playgrounds",
+			"Aumento do número de escolas"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "Saneamento está ligado à infraestrutura como água tratada, coleta de lixo e esgoto.",
+		"explicacaoErro": {
+			"1": "A venda de alimentos não é um serviço de saneamento.",
+			"2": "Playgrounds são lazer e não saneamento.",
+			"3": "Mais escolas ajudam na educação, não no saneamento básico."
+		}
+	},
+	{
+		"id": 4,
+		"tema": "Saneamento Básico",
+		"pergunta": "A coleta adequada de lixo evita qual problema?",
+		"alternativas": [
+			"Proliferação de animais transmissores de doenças",
+			"Diminuição da chuva",
+			"Aumento de terremotos",
+			"Crescimento de plantas exóticas"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "Retirar o lixo corretamente evita ratos, baratas e mosquitos que podem transmitir doenças.",
+		"explicacaoErro": {
+			"1": "A diminuição de chuva independe da coleta de lixo.",
+			"2": "Terremotos não têm relação com lixo.",
+			"3": "O lixo não age diretamente no crescimento de plantas exóticas."
+		}
+	},
+	{
+		"id": 5,
+		"tema": "Doenças",
+		"pergunta": "Qual destas NÃO é considerada uma doença transmissível?",
+		"alternativas": [
+			"Hipertensão",
+			"Gripe",
+			"Dengue",
+			"Sarampo"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "A hipertensão é uma condição crônica, mas não é infectocontagiosa.",
+		"explicacaoErro": {
+			"1": "Gripe é causada por vírus e transmitida entre pessoas.",
+			"2": "Dengue é transmitida pelo mosquito.",
+			"3": "Sarampo é transmitido por vírus entre pessoas."
+		}
+	},
+	{
+		"id": 6,
+		"tema": "Doenças",
+		"pergunta": "A dengue é transmitida principalmente por qual agente?",
+		"alternativas": [
+			"Mosquito Aedes aegypti",
+			"Água contaminada",
+			"Contato direto com doentes",
+			"Alimentos mal conservados"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "O mosquito Aedes aegypti transmite os vírus da dengue, zika e chikungunya.",
+		"explicacaoErro": {
+			"1": "Água contaminada pode transmitir outras doenças, mas não dengue.",
+			"2": "O contato direto não transmite dengue.",
+			"3": "Alimentos mal conservados não transmitem dengue."
+		}
+	},
+	{
+		"id": 7,
+		"tema": "Doenças",
+		"pergunta": "O sarampo pode ser prevenido por:",
+		"alternativas": [
+			"Vacinação",
+			"Repelente corporal",
+			"Evitar alimentos crus",
+			"Exercícios físicos"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "A vacinação é a maneira mais eficaz de prevenir o sarampo.",
+		"explicacaoErro": {
+			"1": "Repelentes não protegem contra sarampo.",
+			"2": "Alimentos crus não transmitem sarampo.",
+			"3": "Exercícios ajudam na saúde, mas não previnem sarampo."
+		}
+	},
+	{
+		"id": 8,
+		"tema": "Doenças",
+		"pergunta": "Qual doença abaixo é causada por bactéria?",
+		"alternativas": [
+			"Tuberculose",
+			"Dengue",
+			"Gripe",
+			"Catapora"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "A tuberculose é causada pela bactéria Mycobacterium tuberculosis.",
+		"explicacaoErro": {
+			"1": "Dengue é causada por vírus.",
+			"2": "Gripe é causada por vírus.",
+			"3": "Catapora é causada por vírus."
+		}
+	},
+	{
+		"id": 9,
+		"tema": "Formas de transmissão",
+		"pergunta": "O HIV pode ser transmitido por:",
+		"alternativas": [
+			"Compartilhamento de seringas",
+			"Picada de mosquito",
+			"Uso de sabonete",
+			"Consumir leite pasteurizado"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "A transmissão do HIV ocorre, principalmente, por contato com sangue contaminado, incluindo compartilhamento de seringas.",
+		"explicacaoErro": {
+			"1": "Mosquitos não transmitem HIV.",
+			"2": "O uso de sabonete não transmite HIV.",
+			"3": "Leite pasteurizado é seguro contra HIV."
+		}
+	},
+	{
+		"id": 10,
+		"tema": "Formas de transmissão",
+		"pergunta": "Qual comportamento reduz risco de transmissão de doenças?",
+		"alternativas": [
+			"Lavar as mãos regularmente",
+			"Comer doces",
+			"Dormir tarde",
+			"Tomar sol sem proteção"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "Lavar as mãos elimina micro-organismos que podem causar doenças.",
+		"explicacaoErro": {
+			"1": "Comer doces não interfere diretamente na transmissão.",
+			"2": "Dormir tarde pode prejudicar saúde, mas não transmite doenças.",
+			"3": "Tomar sol sem proteção oferece risco ao corpo, mas não tem relação com transmissão de doenças."
+		}
+	},
+	{
+		"id": 11,
+		"tema": "Formas de transmissão",
+		"pergunta": "A transmissão de COVID-19 ocorre principalmente por:",
+		"alternativas": [
+			"Gotículas de saliva no ar",
+			"Mordida de animais",
+			"Excesso de atividade física",
+			"Ultravioleta do sol"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "O vírus se espalha por gotículas expelidas ao falar, tossir ou espirrar.",
+		"explicacaoErro": {
+			"1": "A mordida de animais não transmite COVID.",
+			"2": "Atividade física não tem relação direta.",
+			"3": "Ultravioleta do sol não transmite esse vírus."
+		}
+	},
+	{
+		"id": 12,
+		"tema": "Formas de transmissão",
+		"pergunta": "O principal vetor da febre amarela urbana é:",
+		"alternativas": [
+			"Mosquito Aedes aegypti",
+			"Aranha marrom",
+			"Carrapato-estrela",
+			"Mosca doméstica"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "O Aedes aegypti é o mosquito transmissor da febre amarela urbana.",
+		"explicacaoErro": {
+			"1": "Aranhas não transmitem febre amarela.",
+			"2": "Carrapatos transmitem outras doenças.",
+			"3": "Moscas também não são vetores da febre amarela."
+		}
+	},
+	{
+		"id": 13,
+		"tema": "Formas de transmissão",
+		"pergunta": "Podemos reduzir a transmissão de verminoses por:",
+		"alternativas": [
+			"Higienização dos alimentos",
+			"Uso de boné",
+			"Vestir roupas brancas",
+			"Prática de esportes radicais"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "Lavar frutas e verduras antes de comer elimina ovos e larvas de vermes.",
+		"explicacaoErro": {
+			"1": "Boné não protege contra verminoses.",
+			"2": "A cor da roupa não influencia verminoses.",
+			"3": "Esportes radicais não têm relação com parasitoses."
+		}
+	},
+	{
+		"id": 14,
+		"tema": "Sistema Imunológico",
+		"pergunta": "O que o sistema imunológico faz?",
+		"alternativas": [
+			"Defende o organismo contra agentes nocivos",
+			"Regula a temperatura do corpo",
+			"Produz energia para os músculos",
+			"Controla as emoções"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "O sistema imunológico é responsável por defender o corpo de vírus, bactérias e outros invasores.",
+		"explicacaoErro": {
+			"1": "A regulação da temperatura é função de outros sistemas.",
+			"2": "Energia para os músculos vem principalmente do sistema digestivo.",
+			"3": "Emoções são controladas pelo sistema nervoso."
+		}
+	},
+	{
+		"id": 15,
+		"tema": "Sistema Imunológico",
+		"pergunta": "Qual destas células faz parte do sistema imunológico?",
+		"alternativas": [
+			"Leucócitos",
+			"Neurônios",
+			"Plaquetas",
+			"Adipócitos"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "Os leucócitos são as células de defesa do sangue.",
+		"explicacaoErro": {
+			"1": "Neurônios compõem o sistema nervoso.",
+			"2": "Plaquetas ajudam na coagulação.",
+			"3": "Adipócitos armazenam gordura."
+		}
+	},
+	{
+		"id": 16,
+		"tema": "Sistema Imunológico",
+		"pergunta": "Vacinas atuam no sistema imunológico como:",
+		"alternativas": [
+			"Estímulo para produção de anticorpos",
+			"Fonte de calor",
+			"Redução do volume de sangue",
+			"Estimulação de batimentos cardíacos"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "Vacinas treinam o sistema imunológico a reconhecer agentes invasores.",
+		"explicacaoErro": {
+			"1": "Vacinas não produzem calor.",
+			"2": "Não afetam o volume do sangue.",
+			"3": "Não envolvem diretamente o coração."
+		}
+	},
+	{
+		"id": 17,
+		"tema": "Sistema Imunológico",
+		"pergunta": "A febre é um sinal de que:",
+		"alternativas": [
+			"O sistema imunológico está reagindo a uma infecção",
+			"O cérebro aumentou de volume",
+			"O sistema excretor parou de funcionar",
+			"Os ossos ficam mais frágeis"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "A febre mostra que o corpo está combatendo microrganismos invasores.",
+		"explicacaoErro": {
+			"1": "Doenças neurológicas podem afetar o cérebro, mas não causam febre desse jeito.",
+			"2": "Febre não está ligada ao sistema excretor.",
+			"3": "Ossos frágeis não causam febre."
+		}
+	},
+	{
+		"id": 18,
+		"tema": "Índice de Saúde",
+		"pergunta": "O que indica um alto índice de saúde em uma comunidade?",
+		"alternativas": [
+			"Baixa incidência de doenças",
+			"Alto número de casos de gripe",
+			"Falta de coleta de lixo",
+			"Presença de águas contaminadas"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "Quando poucas pessoas adoecem e há serviços básicos é sinal de saudável.",
+		"explicacaoErro": {
+			"1": "Muitos casos de gripe significam índice baixo.",
+			"2": "A falta de coleta prejudica a saúde.",
+			"3": "Áreas com água contaminada têm saúde comprometida."
+		}
+	},
+	{
+		"id": 19,
+		"tema": "Índice de Saúde",
+		"pergunta": "Qual destes fatores contribui para melhorar o índice de saúde da população?",
+		"alternativas": [
+			"Vacinação em massa",
+			"Aumento de lixo nas ruas",
+			"Desmatamento excessivo",
+			"Consumo de água não tratada"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "A vacinação protege todos contra doenças infecciosas, melhorando o índice.",
+		"explicacaoErro": {
+			"1": "Lixo nas ruas aumenta doenças.",
+			"2": "Desmatamento pode provocar desequilíbrio e doenças.",
+			"3": "Água não tratada traz riscos à saúde."
+		}
+	},
+	{
+		"id": 20,
+		"tema": "Índice de Saúde",
+		"pergunta": "Por que a prática de exercícios físicos é importante para a saúde?",
+		"alternativas": [
+			"Fortalece o corpo e previne doenças",
+			"Produz poluição",
+			"Reduz o consumo de água",
+			"Causa insônia"
+		],
+		"respostaCorreta": 0,
+		"explicacao": "Exercícios melhoram a imunidade, disposição e bem-estar, prevenindo diversas doenças.",
+		"explicacaoErro": {
+			"1": "Exercícios não produzem poluição.",
+			"2": "Não há relação entre exercícios e consumo de água reduzido.",
+			"3": "Insônia pode ter outras causas, não a prática de esportes."
+		}
+	}
+]
