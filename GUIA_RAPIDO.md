@@ -85,3 +85,5 @@ aws s3 sync dist/ s3://SEU-BUCKET-NAME --delete
 
 **Colégio Pense Makenzie** | 7º ano 2025 | Apresentação: 01/02/2025
 
+
+quero publicar essa aplicacao em um bucket do s3 (quiz-feira-ciencias-gabriel-2025). pode fazer o deploy, verificar permissões e deixar um script para build e deploy?
